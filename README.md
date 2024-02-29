@@ -21,3 +21,7 @@ esp32-20220117-v1.18.bin
 Youtube demo and intro: 
 
 https://youtu.be/-tPT-35pNUo
+
+A nice story about the history of the D-Beam:
+
+https://www.perfectcircuit.com/signal/roland-d-beam-history
