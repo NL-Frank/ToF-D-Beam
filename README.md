@@ -10,3 +10,14 @@ The ToF-D-Beam is configurable, you can set the parameter of 2 CCs (Continuous C
 
 If you just want the analog part you leave out the MIDI or vice versa. I can also imagine adaptation to use other MIDI trick. Especially the modular world is very creative. The micro-python script is straightforward and is richly commented. There is also a video that shows the capabilities with a real set up. Using elements to completely other domains are very well possible, for example in the area of physically challenged people.
 
+Downloads:
+
+https://github.com/kevinmcaleer/vl53l0x
+
+https://micropython.org/download/ESP32_GENERIC_S3/                  
+
+esp32-20220117-v1.18.bin
+
+Youtube demo and intro: 
+
+https://youtu.be/-tPT-35pNUo
